@@ -1,7 +1,3 @@
-<head>
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
-</head>
-
 # Welcome to Sunlix Documentation
 
 This site provides official documentation for Sunlix projects.
